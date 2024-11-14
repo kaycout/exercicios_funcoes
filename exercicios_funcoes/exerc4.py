@@ -1,8 +1,14 @@
-# criar uma função que receba uma string e retorne a mesma string invertida.
+# função que receba uma string e retorne a mesma string invertida.
 
-def inverter_para_string(s):
+def inverter(s):
     return s[::-1]
 
 texto = ("oi kay, tudo bem?")
-texto_invertido = inverter_para_string(texto)
+texto_invertido = inverter(texto)
 print(texto_invertido)
+
+# len = quantidade
+# len -1 = para ver a posição dos elementos 
+# end "" = para mandar o texto invertido 
+# criar variável que devolve o texto invertido
+# txt_invertido=""

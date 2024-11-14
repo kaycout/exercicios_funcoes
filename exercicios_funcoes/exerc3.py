@@ -1,4 +1,4 @@
-# criar uma função que verifique se o número é par ou impar.
+# função que verifique se o número é par ou impar.
 def verificar_par_ou_impar(numero):
     if numero% 2 == 0:
         return "Par"

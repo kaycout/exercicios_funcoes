@@ -1,7 +1,7 @@
-# criar uma função que receba dois números e retorne a soma deles.
+# função que receba dois números e retorne a soma deles.
 
-def somar(a, b):
+def soma(a, b):
     return a + b
 
-resultado = somar (5, 3)
+resultado = soma (5, 3)
 print(resultado)

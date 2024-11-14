@@ -1,4 +1,4 @@
-# criar uma função que converta a temperatura em Celsius para Fahrenheit.
+# função que converta a temperatura em Celsius para Fahrenheit.
 
 def celsius_para_fahrenheit(celsius):
     fahreinheit = (celsius)
