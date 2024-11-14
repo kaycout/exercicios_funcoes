@@ -1,4 +1,4 @@
-# Fazer teste das funçõs
+# Teste das funçõs
 
 import correcao_funcao as cf 
 

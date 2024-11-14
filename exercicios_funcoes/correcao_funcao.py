@@ -1,4 +1,4 @@
-# 1
+# exercício 1
 
 def soma(a, b):
     return a + b
@@ -6,7 +6,7 @@ def soma(a, b):
 resultado = soma (5, 3)
 print(resultado)
 
-# 2
+# exercício 2
 
 def celsius_para_fahrenheit(celsius):
     fahreinheit = (celsius)
@@ -16,7 +16,7 @@ temperatura_celsius = (25)
 temperatura_fahrenheit = celsius_para_fahrenheit(temperatura_celsius)
 print(f"{temperatura_celsius} °C é igual a {temperatura_fahrenheit}°F ")
 
-# 3
+# exercício 3
 
 def verificar_par_ou_impar(numero):
     if numero% 2 == 0:
@@ -34,7 +34,7 @@ numero = 10
 resultado = verificar_par_ou_impar(numero)
 print(f"O número {numero} é {resultado}.")
 
-# 4
+# exercício 4
 
 def inverter(s):
     return s[::-1]
@@ -49,7 +49,7 @@ print(texto_invertido)
 # criar variável que devolve o texto invertido
 # txt_invertido=""
 
-# 6
+# exercício 6
 
 def calcular_media(lista):
     if len(lista) == 0:
@@ -67,7 +67,7 @@ numeros_vazio = []
 media_vazia = calcular_media(numeros_vazio)
 print(media_vazia)
 
-# 7
+# exercício 7
 
 def filtrar_pares(lista):
     return [x for x in lista if x % 2 == 0]
